@@ -2,6 +2,7 @@
     "name": "comp3104",
     "version": "0.1.0",
     "private": true,
+    "homepage": "COMP3104",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
